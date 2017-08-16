@@ -1,0 +1,26 @@
+{
+  "name": "xiangmu",
+  "version": "1.0.0",
+  "description": "二期项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangcaijuan/xiangmu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wangcaijuan/xiangmu/issues"
+  },
+  "homepage": "https://github.com/wangcaijuan/xiangmu#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
